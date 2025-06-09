@@ -67,7 +67,7 @@ CALCULATOR-APP/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/GAURAV-RAYAT/calculator.git
    cd calculator-app
    ```
 
